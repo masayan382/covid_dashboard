@@ -32,3 +32,4 @@ describe('counter reducer', () => {
     expect(actual.value).toEqual(5);
   });
 });
+
